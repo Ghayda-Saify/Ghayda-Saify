@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 B.Sc. Computer Engineering, An-Najah National University (GPA: 3.8/4.0)
+- 🎓 B.Sc. Computer Engineering, An-Najah National University 
 - 💼 Backend Intern @ **Foothill** — working with ASP.NET Core, Clean Architecture & TDD
 - 🏗️ Strong focus on **SOLID principles**, **design patterns**, and **well-tested APIs**
 - 🧪 Experienced in **TDD**, unit & integration testing (xUnit, Moq, FluentAssertions, Cucumber)
