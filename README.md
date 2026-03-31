@@ -16,13 +16,13 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 B.Sc. Computer Engineering @ **An-Najah National University**, Palestine (GPA: **3.8 / 4.0**)
-- 💼 Backend Intern @ **Foothill** — ASP.NET Core, Clean Architecture, TDD, CI/CD
+- 🎓 B.Sc. Computer Engineering @ **An-Najah National University**, Palestine.
+- 💼 Backend Intern @ **Foothill**, ASP.NET Core, Clean Architecture, TDD, CI/CD
 - 🏗️ Passionate about **SOLID principles**, **design patterns**, and **well-architected APIs**
-- 🧪 Practiced in **TDD**, unit & integration testing — xUnit, Moq, FluentAssertions, Cucumber
-- 🏆 **🥈 2nd Place** @ Abu Dhabi Hackathon with AgriQ — quantum-inspired agricultural optimization
+- 🧪 Practiced in **TDD**, unit & integration testing, xUnit, Moq, FluentAssertions, Cucumber
+- 🏆 **🥈 2nd Place** @ Abu Dhabi Hackathon with AgriQ, quantum-inspired agricultural optimization
 - 💡 150+ problems solved on LeetCode & Codeforces
-- 🔬 Experienced in **hardware verification** — constrained-random testbenches, 100% functional coverage
+- 🔬 Experienced in **hardware verification**, constrained-random testbenches, 100% functional coverage
 - 📍 Nablus, Palestine
 
 ---
