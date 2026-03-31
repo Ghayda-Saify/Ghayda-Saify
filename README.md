@@ -104,10 +104,10 @@
 
 ### 💼 Experience
 
-**Backend Intern — Foothill** *(2025 – Present)*
+**Backend Intern, Foothill** *(2025 – Present)*
 Building production-grade backend systems with C# and ASP.NET Core · Clean Architecture · TDD · CI/CD
 
-**Technical Solutions Lead — Arab Innovation Network (AIN)**
+**Technical Solutions Lead, Arab Innovation Network (AIN)**
 Leading technical design for student innovation initiatives · Mentoring in backend & system design · An-Najah University
 
 ---
