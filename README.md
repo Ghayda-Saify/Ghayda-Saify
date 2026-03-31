@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ghayda 👋</h1>
+<h1 align="center">Hi, I'm Ghaydaa 👋</h1>
 
 <p align="center">
   Backend Software Engineer · Computer Engineering Student @ An-Najah National University
@@ -45,6 +45,7 @@
 
 | Project | Stack | Highlights |
 |---|---|---|
+| [MyHotelApp](https://github.com/Ghayda-Saify/MyHotelApp) | C#, ASP.NET Core 9, Blazor, SQL Server | JWT auth, role-based access, email service, Docker, CI/CD, Swagger |
 | [Weather Monitoring Service](https://github.com/Ghayda-Saify/WeatherMonitoringAndReportingServices) | C#, .NET | Clean Architecture, CI/CD with GitHub Actions |
 | [Airport Ticket Booking](https://github.com/Ghayda-Saify/Airport-Ticket-Booking-) | C# | OOP, Design Patterns |
 | [Fitness Program Backend](https://github.com/SWProjectForFitnessProgram/SW-Project) | Java, Spring Boot | RESTful APIs, BDD with Cucumber |
