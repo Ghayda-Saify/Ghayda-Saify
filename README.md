@@ -11,10 +11,10 @@
 ### 🧑‍💻 About Me
 
 - 🎓 B.Sc. Computer Engineering, An-Najah National University 
-- 💼 Backend Intern @ **Foothill** — working with ASP.NET Core, Clean Architecture & TDD
+- 💼 Backend Intern @ **Foothill**, working with ASP.NET Core, Clean Architecture & TDD
 - 🏗️ Strong focus on **SOLID principles**, **design patterns**, and **well-tested APIs**
 - 🧪 Experienced in **TDD**, unit & integration testing (xUnit, Moq, FluentAssertions, Cucumber)
-- 🏆 150+ problems solved on LeetCode & Codeforces
+- 🏆 190+ problems solved on LeetCode & Codeforces
 - 📍 Nablus, Palestine
 
 ---
