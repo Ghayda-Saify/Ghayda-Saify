@@ -91,12 +91,12 @@
 | Project | Stack | Highlights |
 |---|---|---|
 | [MyHotelApp](https://github.com/Ghayda-Saify/MyHotelApp) | C#, ASP.NET Core 9, Blazor, SQL Server | JWT auth, role-based access, email service, Docker, CI/CD, Swagger |
-| [AgriQ 🏆](https://github.com/Ghayda-Saify/AgriQ) | Python, Flask, Random Forest, LSTM, Simulated Annealing | **🥈 2nd Place — Abu Dhabi Hackathon** · Quantum-inspired crop optimization for Palestine |
+| [AgriQ 🏆](https://github.com/Ghayda-Saify/agriq_hackathon) | Python, Flask, Random Forest, LSTM, Simulated Annealing | **🥈 2nd Place — Abu Dhabi Hackathon** · Quantum-inspired crop optimization for Palestine |
 | [Weather Monitoring Service](https://github.com/Ghayda-Saify/WeatherMonitoringAndReportingServices) | C#, .NET | Clean Architecture, CI/CD with GitHub Actions |
 | [Airport Ticket Booking](https://github.com/Ghayda-Saify/Airport-Ticket-Booking-) | C# | OOP, Design Patterns |
 | [Fitness Program Backend](https://github.com/SWProjectForFitnessProgram/SW-Project) | Java, Spring Boot | RESTful APIs, BDD with Cucumber |
-| [Generative AI Flask Template](https://github.com/Ghayda-Saify/generative-ai-flask-template) | Python, Flask | Clean architecture, prompt templates, LLM-ready backend |
-| [DUT Verification](https://github.com/Ghayda-Saify/DUT-Verification) | SystemVerilog | Constrained-random testbench, 100% functional coverage, 4 bugs detected |
+| [Generative AI Flask Template](https://github.com/Ghayda-Saify/GenAI) | Python, Flask | Clean architecture, prompt templates, LLM-ready backend |
+| [DUT Verification](https://github.com/Ghayda-Saify/VerificationFinalProject) | SystemVerilog | Constrained-random testbench, 100% functional coverage, 4 bugs detected |
 | [E-Commerce Platform](https://github.com/Ghayda-Saify/WebProject) | PHP, MySQL | Auth, product management, order system |
 | [AIN Society Website](https://github.com/AIN-Team/AIN-Website) | HTML, CSS, JS | Official site for AIN @ An-Najah University |
 
